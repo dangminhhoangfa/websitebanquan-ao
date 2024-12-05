@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/websitebanquan-ao/static/css/main.d9298fc6.css",
+    "main.js": "/websitebanquan-ao/static/js/main.92ff807d.js",
+    "index.html": "/websitebanquan-ao/index.html",
+    "main.d9298fc6.css.map": "/websitebanquan-ao/static/css/main.d9298fc6.css.map",
+    "main.92ff807d.js.map": "/websitebanquan-ao/static/js/main.92ff807d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9298fc6.css",
+    "static/js/main.92ff807d.js"
+  ]
+}
